@@ -3,7 +3,6 @@ import Poll from '../models/poll';
 
 export const getPolls = () => {
   // should return a promise that returns a list of polls
-  console.log('asodfij');
   return Poll.find({});
 };
 

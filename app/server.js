@@ -66,7 +66,7 @@ app.post('/new', (req, res) => {
   });
 });
 
-app.get('/vote/:id', (req, res) => {
+app.post('/vote/:id', (req, res) => {
   const vote = (req.body.vote === 'up');// convert to bool
   Polls.vote(req.params.id, vote).then((result) => {
     res.send(result);
