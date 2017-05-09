@@ -7,8 +7,9 @@
 Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
 
 ## Notes:
-App is running on: [link](https://cs52-sa7-jinnan.herokuapp.com/)
-Github link: [github link](https://git.heroku.com/cs52-sa7-jinnan.git)
+* Assignment description: [assignment](http://cs52.me/assignments/sa/server-side/)
+* App is running on: [link](https://cs52-sa7-jinnan.herokuapp.com/)
+* Github link: [github link](https://git.heroku.com/cs52-sa7-jinnan.git)
 
 ## Deploy to Heroku
 
